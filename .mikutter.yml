@@ -1,0 +1,68 @@
+---
+name: itsumonoyatsu
+slug: :itsumonoyatsu
+description: いつものやつです
+depends:
+  mikutter: '3.9.6'
+  plugin:
+  - mikutter_subparts_nsfw
+  - mikutter_extract_media
+  - multiposter
+  - sub-parts-client
+  - twemoji
+  - open_your_url
+  - mikutter-redmine-link
+  - mikutter_justsize
+  - burnt_toast
+  - mikutter_favrt
+  - mikutter_append_url
+  - mikutter_extract_nsfw
+  - timeline_dam
+  - ctrl_click
+  - double_header
+  - twitter_api_keys
+  - portal
+  - mikutter-subparts-image
+version: '1.0'
+author: cobodo
+plugin_urls:
+  mikutter_subparts_nsfw:
+    url: cobodo/mikutter_subparts_nsfw
+  mikutter_extract_media:
+    url: cobodo/mikutter_extract_media
+  multiposter:
+    url: cobodo/mikutter-multiposter
+  sub-parts-client:
+    url: cobodo/mikutter-sub-parts-client
+  twemoji:
+    url: cobodo/mikutter-twemoji
+  open_your_url:
+    url: cobodo/open_your_url
+  mikutter-redmine-link:
+    url: cobodo/mikutter-redmine-link
+  mikutter_justsize:
+    url: cobodo/mikutter_justsize
+  burnt_toast:
+    url: cobodo/mikutter-burnt-toast
+  mikutter_favrt:
+    url: cobodo/mikutter_favrt
+  mikutter_append_url:
+    url: cobodo/mikutter_append_url
+  mikutter_extract_nsfw:
+    url: cobodo/mikutter_subparts_nsfw
+  timeline_dam:
+    url: cobodo/177a59544b5ed9b3d480b4c374014fea
+    type: gist
+  ctrl_click:
+    url: cobodo/312f38e871632d7ea203c220bad740b3
+    type: gist
+  double_header:
+    url: cobodo/86d53647afcfd910d542f96283ace0c2
+    type: gist
+  twitter_api_keys:
+    url: github.com:cobodo/twitter_api_keys
+    type: git
+  portal:
+    url: toshia/portal
+  mikutter-subparts-image:
+    url: moguno/mikutter-subparts-image
